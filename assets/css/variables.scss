@@ -1,0 +1,67 @@
+:root {
+	--primary: #00c65e;
+	--danger: #f81f58;
+	--success: #3ca478;
+
+	--text-color: #000;
+	--text-secondary-color: #8d9194;
+
+	--bg-secondary: #f7f7f7;
+
+	--border-color: #DADCDC;
+}
+
+.f-button {
+	&.is-next,
+	&.is-prev {
+		--f-button-color: var(--primary);
+		// --f-button-bg: #fff;
+		--f-button-hover-bg: #fff;
+		--f-button-active-bg: #fff;
+		--f-button-hover-color: var(--primary);
+		--f-button-active-color: var(--primary);
+		border-radius: 50%;
+		svg {
+			filter: none;
+		}
+		&:hover,
+		&:active {
+			mix-blend-mode: normal;
+		}
+		&:active {
+			transform: scale(0.9) translateY(-50%) !important;
+			transform-origin: center top !important;
+		}
+	}
+}
+
+.f-thumbs__slide {
+	border: 1px solid #00000020;
+	border-radius: 8px;
+	overflow: hidden !important;
+	&.is-nav-selected {
+		border-color: var(--primary);
+	}
+}
+
+.fancybox__backdrop {
+	--fancybox-bg: #fff;
+}
+
+.f-carousel__viewport {
+	height: 100%;
+	overflow: visible !important;
+}
+
+.p-slider .p-slider-range {
+	background: var(--primary) !important;
+}
+.p-slider .p-slider-handle {
+	border-color: var(--primary) !important;
+	&:hover {
+		background-color: var(--primary) !important;
+	}
+	&:focus {
+		box-shadow: 0 0 0 0.2rem #00c65e40 !important;
+	}
+}

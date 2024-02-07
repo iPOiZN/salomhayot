@@ -1,0 +1,13 @@
+// GET TOKEN
+const { getToken } = useApollo()
+const token = getToken()
+const otherToken = getToken('github-token')
+
+// OPEN API FOR TEST
+https://open-api-docs.guesty.com/docs/authentication
+// File Upload
+// mutation ($file: Upload!){
+//   upload(file: $file) {
+//       id
+//   }
+// }

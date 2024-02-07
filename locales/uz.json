@@ -1,0 +1,422 @@
+{
+  "currentLanguage": "O'zbek",
+  "ru": "Русский",
+  "uz": "O'zbek",
+  "Success": "Muvaffaqiyatli",
+  "successfullyLogin": "Muvaffaqiyatli login qilingan",
+  "Искать товары":"Mahsulotlarni qidirish",
+  "Искать":"Qidirish",
+  "Избранное":"Sevimlilar",
+  "Корзина":"Savatcha",
+  "Войти":"Kirish",
+
+  
+  "landing": {
+    "pages": {
+      "home": {
+        "mainCardFullSubitle": "ma'lumotlardan",
+        "mainCardFullTitle": "harakatlarga",
+        "productSlides": {
+          "scoring": {
+            "title": "Skoring",
+            "text": "Qarz oluvchilarni baholash tizimi, uning yordamida banklar va yirik mikromoliya tashkilotlari (MFO) shaxsning kreditni qanchalik to'g'ri to'lashini taxmin qilishlari mumkin."
+          },
+          "verification": {
+            "title": "Ma'lumotlarni tekshirish",
+            "text": "Ma'lumotlarni tekshirish uchun, sizning mijozning ma'lumotlarini tekshiring."
+          },
+          "income": {
+            "title": "Mijoz daromadini tekshirish",
+            "text": "Model mijozning daromadini rasmiy daromadga havola qilmasdan hisoblashga qaratilgan."
+          },
+          "fraud": {
+            "title": "Firibgarlik monitoringi",
+            "text": "Firibgarlik xavfini kamaytiradi."
+          },
+          "collect": {
+            "title": "Kolleksiyon modeli",
+            "text": "Kolleksiyon modeli, turlarni tashkil etish."
+          },
+          "triggers": {
+            "title": "Turlar",
+            "text": "Turli mahsulotlar uchun triggerlarni tanlash."
+          },
+          "learnMore": "Batafsil"
+        }
+      }
+    },
+    "sidebar": {
+      "home": "Bosh sahifa",
+      "fintech": "Fintech",
+      "geo": "Geoanalitika",
+      "score": "Skoring",
+      "verify": "Mijoz ma'lumotlarini tekshirish",
+      "income": "Mijoz daromadini tekshirish",
+      "fraud": "Firibgarlik monitoringi",
+      "collect": "Kolleksiyon modeli",
+      "trigger": "Turlar",
+      "help": "Yordam",
+      "contacts": "Kontaktlar",
+      "about": "Biz haqimizda"
+    },
+    "header": {
+      "personalCabinet": "Shaxsiy kabinet",
+      "search": "Qidiruv soʻzini kiriting"
+    },
+    "footer": {
+      "contacts": "Kontaktlar",
+      "socials": "Sosial xaritalar",
+      "feedback": "Murojaat",
+      "phone": "0611 — Beeline mobil telefonidan (90) 185-00-55 — dastlabki telefonlar",
+      "address": "Oʻzbekiston Respublikasi, Toshkent shahri, Amir Temur koʻchasi 42",
+      "yourName": "Ismingiz",
+      "yourPhone": "Telefon raqamingiz",
+      "yourMessage": "Xabaringizni yozing",
+      "send": "Yuborish"
+    }
+  },
+  "user": {
+    "profile": {
+      "title": "Profil",
+      "leftEnquiries": "Sizda qolgan:",
+      "conPackages": "Ulangan paketlar",
+      "noServices": "Sizda ulangan paketlar yoʻq",
+      "enquiries": "soʻrov qoldi",
+      "extend": "O'zgartirish",
+      "buy": "Sotib olish",
+      "downloadStat": "Statistika yuklab olish",
+      "download": "Yuklab olish",
+      "calendar": "Davrni tanlang",
+      "header": {
+        "type": "Turi",
+        "package": "Paket",
+        "balance": "Balans",
+        "status": "Status",
+        "expiredDate": "Tug'ilgan sanasi"
+      },
+      "status": {
+        "active": "Active",
+        "inactive": "Inactive",
+        "expired": "Tug'ilgan sanasi",
+        "pending": "Pending",
+        "archived": "Archived",
+        "deleted": "Deleted",
+        "canceled": "Canceled",
+        "completed": "Completed",
+        "failed": "Failed",
+        "suspended": "Suspended",
+        "succeeded": "Succeeded",
+        "processing": "Processing"
+      }
+    },
+    "packages": {
+      "plans": "Planlar"
+    }
+  },
+  "components": {
+    "tariffCard": {
+      "uzbekSum": "so'm",
+      "extraCost": "So'rovning paketdan tashqari narxi",
+      "packageRequests": "Paketdagi so'rovlar soni",
+      "cancel": "Bekor qilish",
+      "buy": "Sotib olmoq"
+    },
+    "logoutPopper": {
+      "logout": "Chiqish",
+      "packages": "Tarif rejalar",
+      "profile": "Profil"
+    }
+  },
+  "blocks": {
+    "select": {
+      "notSelected": "Tanlanmagan",
+      "noOptions": "Variant topilmagan",
+      "chosenCount": "Tanlandi: {n}"
+    },
+    "upload": {
+      "dragFileOr": "Faylni bu yerga joylashtiring yoki",
+      "chooseFromFolder": "Jilddan tanlash"
+    },
+    "sidebar": {
+      "newCampaign": "Kampaniya yaratish",
+      "campaigns": "Kampaniya",
+      "audiences": "Auditoriya",
+      "creatives": "Kreativlar",
+      "blog": "Blog",
+      "sitemap": "Sayt xaritasi",
+      "users": "Foydalanuvchilar"
+    }
+  },
+  "basics": {
+    "allPlural": "Hammasi",
+    "back": "Orqaga",
+    "continue": "Davom etish",
+    "delete": "O'chirish",
+    "deleteAll": "Hammasini o'chirish",
+    "downloadTemplate": "Namunani yuklash",
+    "file": "Fayl",
+    "somethingWentWrong": "Nimadir hato ketdi",
+    "tryAgain": "Qayta urinish",
+    "datesNotChosen": "Sana tanlanmagam",
+    "pattern": "Masalan +1 (999) 999-99-99",
+    "perPeriod": "Davr oralig'ida",
+    "perPerson": "Bitta odam uchun",
+    "perDay": "Kunda",
+    "perMonth": "Oyda",
+    "thereAreExceptions": "Istisno mavjud",
+    "saveAndContinue": "Saqlash va davom etish",
+    "image": "Tasvir",
+    "text": "Matn",
+    "imageRequirements": "Tasvirga talab",
+    "symbolsLeft": "Ramzlar qoldi",
+    "whyIsItNeeded": "Bu nima uchun kerak?",
+    "vk": "Vkontakte",
+    "okSocialNetwork": "Odnoklassniki",
+    "link": "Havola",
+    "withoutButton": "Tugmasiz",
+    "withButton": "Tugma bilan",
+    "total": "Jami",
+    "edit": "O'zgartirish",
+    "title": "Nomi",
+    "howDoesItWork": "Bu qanday ishlaydi",
+    "date": "Sana",
+    "downloadInPDF": "PDF formatda yuklash",
+    "downloadInCSV": "CSV formatda yuklash",
+    "downloadInExcel": "Excel formatda yuklash",
+    "further": "Davom etish",
+    "save": "Saqlash",
+    "cancel": "Bekor qilish",
+    "signIn": "Kirish",
+    "signOut": "Chiqish"
+  },
+  "terms": {
+    "gender": "Jins",
+    "male": "Erkak",
+    "men": "Erkaklar",
+    "female": "Ayol",
+    "women": "Ayollar",
+    "age": "Yosh",
+    "ageAndGender": "Yosh va jins",
+    "occupationType": "Bandlik turi",
+    "targetAds": "Targetlangan reklama va SMS",
+    "targetCalls": "Targetlangan qo'ng'iroq",
+    "directMessages": "O'z bazasi bo'ylab yuborish",
+    "regionsOfLiving": "Turar joy mintaqasi",
+    "regionGenderAge": "Mintaqa, jins, yosh",
+    "geolocation": "Geolokatsiya",
+    "audienceType": "Auditoriya turi",
+    "audienceTypes": {
+      "within3kmRadius": "Tanlangan 3 km radiusda savdo nuqtangizdan"
+    },
+    "audienceGeoTime": "Auditoriya muntazam ravishda geo-zonada bo'ladigan vaqti",
+    "anyTime": "Har qanday vaqt",
+    "address": "Manzil",
+    "enterAddress": "Manzilni kiriting",
+    "addAddress": "Manzilni qo'shish",
+    "radiusInKm": "Radius (km)",
+    "radiusNKm": "Radius {n} km",
+    "interests": "Qiziqishlar",
+    "income": "Daromad",
+    "haveKids": "Bolalarga egaligi",
+    "geography": "Geografiya",
+    "incomePlural": "Daromadlar",
+    "childrenAge": "Bolalar yoshi",
+    "trips": "Sayohat",
+    "occupation": "Bandlik",
+    "devicesUsed": "Qanday qurilmalardan foydalanishadi",
+    "mobileCosts": "Aloqaga xarajatlar",
+    "segment": "Segment",
+    "ownSegment": "Shaxsiy segment",
+    "phoneNumbers": "Telefon raqamlar",
+    "smsSendersNames": "SMS yuboruvchilarning ismlari",
+    "sites": "Saytlar",
+    "contactsTotalCount": "Jami kontaktlar",
+    "sitesTotalCount": "Jami saytlar",
+    "clientBase": "Mijozlar bazasi",
+    "mobileBrowserBanner": "Mobil brauzerda banner",
+    "mobileBanner": "Mobil banner",
+    "smsOrMmsAds": "SMS jo'natma",
+    "socialNetworksAds": "Ijtimoiy-tarmoqlarda reklama",
+    "viberAds": "Viberda jo'natma",
+    "emailAds": "Email-jo'natma",
+    "price": "Narxi",
+    "impressions": "Ko'rsatmalar",
+    "period": "Davr",
+    "country": "Mamlakat",
+    "change_address": "Yashash joyini o'zgartirish",
+    "number_change": "Telefon raqamini o'zgartirish",
+    "current": "Joriy",
+    "roaming": "Rouming",
+    "increase": "O'sish",
+    "campaignPeriod": "Kampaniya davri",
+    "dateOfStartAndEnd": "Boshlanish va yakunlanish sanasi",
+    "regionsToShowIn": "Ko'rsatish uchun mintaqalar",
+    "quantity": "Miqdor",
+    "campaignBudget": "Kampaniya budjeti",
+    "campaignName": "Reklama kampaniyasining nomi",
+    "adsPeriod": "Jo'natma davri",
+    "socialNetworkShort": "Ijtimoiy tarmoq",
+    "messages": "Xabar",
+    "emails": "Xatlar",
+    "targetAndGeo": "Target va GEO",
+    "statistics": "Statistika",
+    "analytics": "Analitika",
+    "clicks": "Kliklar",
+    "conversion": "Konversiyalar",
+    "calls": "Qo'ng'iroqlar",
+    "budget": "Budjet",
+    "personalInfoPolitics": "Korporativ mijozlarga barcha xizmatlar abonentlarning shaxsiy maʼlumotlarini toʻplash, qayta ishlash va himoya qilish boʻyicha kompaniyaning siyosatiga qatʼiy muvofiq hamda Oʻzbekiston Respublikasining shaxsiy maʼlumotlar va ularni himoya qilish sohasidagi qonunchiligi talablariga muvofiq koʻrsatiladi."
+  },
+  "pages": {
+    "users": {
+      "admins": "Administratorlar",
+      "advertisers": "Reklamodatorlar",
+      "cols": {
+        "name": "Ism",
+        "username": "Kirish",
+        "role": "Huquqlari",
+        "email": "Elektron pochta"
+      },
+      "createNew": "Yangi yaratish",
+      "editForm": {
+        "createNewUser": "Yangi foydalanuvchi yaratish",
+        "desc": "Iltimos, foydalanuvchi ma'lumotlarini qo'shing",
+        "nameLabel": "Ism",
+        "namePlaceholder": "Ism",
+        "loginLabel": "Login",
+        "loginPlaceholder": "Login",
+        "passwordLabel": "Parol",
+        "passwordPlaceholder": "Parol",
+        "confirmPasswordLabel": "Parolni tasdiqlang",
+        "organizationPlaceholder": "Tashkilot",
+        "emailLabel": "Elektron pochta",
+        "emailPlaceholder": "Elektron pochta",
+        "roleLabel": "Rol",
+        "editUser": "Foydalanuvchini tahrirlash"
+      }
+    },
+    "login": {
+      "heading": "Shaxsiy kabinetga kirish",
+      "desc": "Kirish uchun mobil raqamingizni kiriting",
+      "phoneLabel": "Telefon raqamingiz",
+      "agreement": "Shartlarni qabul qilaman <a href=\"{agreementLink}\"oferta</a>",
+      "cantLogin": "Kira olmayapsizmi?",
+      "loginLabel": "Login",
+      "passwordLabel": "Password",
+      "loginButtonLabel": "Login",
+      "signUpButtonLabel": "Ro'yxatdan o'tish"
+    },
+    "signUp": {
+      "question": "Akkauntingiz yo'qmi?",
+      "signUp": "Ro'yhatdan o'tish",
+      "haveAnAcoount": "Akkauntingiz bormi?",
+      "signIn": "Kirish",
+      "enterData": "Ma'lumotlaringizni kiriting",
+      "code": "Kod",
+      "enterCodeFromMail": "Emailingizga yuborilgan kodni kiriting"
+    },
+    "analytics": {
+      "occupation": {
+        "working": "Ishlovchi",
+        "retired": "Nafaqaxor",
+        "student": "Talaba",
+        "school": "Maktab o'quvchisi",
+        "other": "Barcha qolganlari"
+      },
+      "haveKids": {
+        "interest": "Bolalar tovarlariga qiziqishadi",
+        "school": "Maktab o'quvchilari",
+        "3to6": "3 - 6 yosh",
+        "0to3": "0 - 3 yosh"
+      }
+    },
+    "fintech": {
+      "score": {
+        "info1": "Telekommunikatsiya operatorining kredit reytingi qarz oluvchini baholashda yordamchi vosita bo'lib ishlaydi va hisoblashda mijozning onlayn xatti-harakati, shaxsiy xususiyatlari va kreditlarga nisbatan xatti-harakatlari tahlilidan foydalanadi.",
+        "info2": "Model mijozning onlayn xulq-atvorini tahlil qilishdan tashqari, yoshi, mumkin bo'lgan garov mavjudligi, daromad (shu jumladan tasdiqlanmagan), oilaviy ahvol va ariza topshirishda taqdim etilgan ma'lumotlarning to'g'riligini tahlil qilish to'g'risidagi ma'lumotlardan foydalanadi.",
+        "scoring_helps": "Skoring yordam beradi",
+        "helps_reduce_loan": "Ishonchsiz kreditlar sonini kamaytiring",
+        "helps_increase_loan": "Ishonchli kreditlar sonini ko'paytirish",
+        "helps_accuracy": "Baholash aniqligini oshirish",
+        "helps_evaluate": "Boshqa manbalarda ma'lumot yo'q mijozlarni baholash",
+        "helps_reach": "Mijozlarga rasmiy ish haqisiz murojaat qilish"
+      },
+      "verify": {
+        "checkInfo": "Mijoz tomonidan so'rovnomada taqdim etilgan ma'lumotlarni tekshiring",
+        "fio": "FIO",
+        "number": "Telefon raqami",
+        "age": "Yoshi",
+        "gender": "Jinsi",
+        "address": "Yashash manzili",
+        "work": "Ish manzili",
+        "alert": "Xususiyatlar to'plami birlashtirilishi yoki mustaqil ravishda tuzilishi mumkin.",
+        "etc": "va hokazo",
+        "confirm": "So'rovnomada ko'rsatilgan mijoz ma'lumotlarini tasdiqlaydi",
+        "reduce": "Firibgarlik xavfini kamaytiradi",
+        "expand": "Mijoz portfelini kengaytiradi",
+        "increase": "Foiz daromadini oshiradi",
+        "reduce_risk": "To'lovga qodir bo'lmagan qarz oluvchilardan voz kechish va foydani yo'qotish xavfini kamaytiradi"
+      },
+      "income": {
+        "info1": "Model uyali tarmoqdagi xatti-harakatlar: sarf-xarajatlar, qo'ng'iroqlar, to'lovlar, tarmoqdagi mijoz harakati portreti kabi katta va murakkab ma'lumotlar to'plamlarini qayta ishlaydi.",
+        "info2": "Internet: turli xizmatlar uchun foydalaniladigan trafik (aviachiptalarni sotib olish xizmatlari, mehmonxonalarni bron qilish xizmatlari, navigatorlar, onlayn xaritalar va boshqalar), foydalanilgan trafik va boshqalar, bu o'zgaruvchilar o'rtasidagi chiziqli bo'lmagan munosabatlarni ushlaydi va potentsial ravishda aniqroq ta'minlaydi. daromadni prognoz qiladi.",
+        "income_helps": "Model mijozning daromadini rasmiy daromadga havola qilmasdan hisoblashga qaratilgan.",
+        "reach": "Bu O'zbekiston fuqarolarining deyarli 4/5 qismiga yetib borish imkoniyatini beradi",
+        "increase": "Foiz daromadini oshiradi",
+        "expand": "Mijoz portfelini kengaytiradi",
+        "risk_debt": "Qarzni to'lamaslik xavfini kamaytiradi",
+        "risk_refusal": "To'lovga qodir bo'lmagan qarz oluvchilarning rad etish xavfi va foydani yo'qotish xavfini kamaytiradi",
+        "average_salary": "O‘rtacha hisoblangan daromad",
+        "salary_sum": "Oylik hisoblangan daromad, ming so'm."
+      },
+      "collect": {
+        "info1": "To'lov modeli yoki yig'ish modeli - bu to'lanmagan qarz oluvchilar yoki mijozlardan qarzni undirish ehtimolini bashorat qilish uchun ishlatiladigan tahliliy vosita.",
+        "info2": "Model eng samarali strategiyalarni aniqlash, hisoblar ustuvorligini belgilash va resurslarni samarali taqsimlash orqali qarzni undirish jarayonini optimallashtirishga yordam beradi. va avval yashiringan mijozlar faoliyati va tahlil natijalarini biznes bo'linmalari bilan bo'lishish.",
+        "collect_helps": "Reyting yordam beradi",
+        "confirm": "So'rovnomada ko'rsatilgan mijoz ma'lumotlarini tasdiqlaydi",
+        "fraud": "Firibgarlik xavfini kamaytiradi",
+        "portfolio": "Mijoz portfelini kengaytiradi",
+        "income": "Foiz daromadini oshiradi",
+        "reduce_risk": "To'lovga qodir qarz oluvchilardan voz kechish va foydani yo'qotish xavfini kamaytiradi.",
+        "suspicious_sites": "{number} oy davomida shubhali saytlar trafigi",
+        "visit_sites": "Eng ko'p tashrif buyurilgan {number} ta sayt"
+      },
+      "trigger": {
+        "info1": "Ipoteka portfelini ko'paytirish kerakmi? Avtomobil kreditlarimi? Kredit kartalar yoki iste'mol kreditlari?",
+        "info2": "Balki sizning maqsadingiz portfelingizdagi depozitlarni ko'paytirishdir.",
+        "we_help": "Biz sizga ideal qarz oluvchi yoki investor topishga yordam beramiz",
+        "found_clients": "<span>{count}</span>ta mijoz topildi",
+        "you_may_check": "Siz jinsi, yosh guruhi, daromad darajasini tanlab, o'zingiz potentsial portfel yaratishingiz, tizimimizda dastlabki baholashni amalga oshirishingiz va portfelingizga ideal mijozni olishingiz mumkin"
+      }
+    }
+  },
+  "tmp": {
+    "regions": {
+      "moscow": "Moskva",
+      "spb": "Sankt-Peterburg",
+      "ekb": "Yekaterinburg"
+    },
+    "interests": {
+      "fishing": "Baliq ovi",
+      "cars": "Avtomobillar",
+      "games": "O'yinlar"
+    }
+  },
+  "form": {
+    "checkUser": {
+      "title": "Tasdiqlash uchun mijozingizning telefon ma'lumotlarini kiriting",
+      "fio": "F.I.O.",
+      "pinfl": "PINFL",
+      "phone": "Telefon raqami",
+      "passport": "Pasport seriyasi",
+      "importantAlert": "Diqqat! Barcha maydonlar to'ldirilishi shart."
+    }
+  },
+  "Error": "Xatolik",
+  "areYouSureDelete": "Haqiqatan ham oʻchirib tashlamoqchimisiz?",
+  "confirmation": "Tasdiqlash",
+  "confirmed": "Tasdiqlandi",
+  "userDeleted": "Foydalanuvchi o'chirildi",
+  "choose": "Tanlash",
+  "result": "Natija"
+}
